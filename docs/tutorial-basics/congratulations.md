@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 ---
-
+![Attachment](../../static/img/docusaurus.png)
 # Congratulations!
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
@@ -12,7 +12,7 @@ Have **5 more minutes**? Take a look at [**versioning**](../tutorial-extras/mana
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610) 
 
-![[Pasted image 20240201153047.png]]
+
 
 next?
 
