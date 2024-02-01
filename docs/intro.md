@@ -6,11 +6,11 @@ sidebar_position: 1
 
 Здесь вы сможете узнать как работает MetaDoc
 
-## Getting Started
+## Начнем
 
-Get started by **creating a new site**.
+Создаю новые доки
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **try Docusaurus immediately** with [**docusaurus.new**](https://docusaurus.new).
 
 ### What you'll need
 
