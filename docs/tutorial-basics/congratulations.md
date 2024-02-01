@@ -12,7 +12,7 @@ Have **5 more minutes**? Take a look at [**versioning**](../tutorial-extras/mana
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610) 
 
-![](https://holocron.so/uploads/3f5954fa-image-2024-01-26-10-23-07.png)
+![[Pasted image 20240201153047.png]]
 
 next?
 
