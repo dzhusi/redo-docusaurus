@@ -2,7 +2,11 @@
 sidebar_position: 6
 ---
 ![Attachment](../../static/img/docusaurus.png)
-# Congratulations!
+# Congratulations! Boom!
+
+![[../../static/img/docusaurus-social-card.jpg]]
+
+
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 
